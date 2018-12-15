@@ -7,14 +7,16 @@ https://www.zhihu.com/question/265741428/answer/299986865
 
 2018deecamp夏令营的RL项目是利用RL方法学习即时战略游戏，由地平线负责产业导师
 
-# coursera
-## RL Course by David Silver
+# courses
+-  RL Course by David Silver
+
 http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 
 https://www.bilibili.com/video/av32149008?from=search&seid=17423599052899767460
 中文字幕，youtube上没有字幕
 
-## CS294
+- CS294
+
 https://berkeley-deep-learning.github.io/
 https://github.com/berkeleydeeprlcourse/homework
 课程作业
@@ -34,17 +36,19 @@ https://www.zhihu.com/question/61171437
 https://zhuanlan.zhihu.com/codekitty
 note, cs231n, cs294, cs234
 
-## CSCS234
+- CSCS234
+
 http://web.stanford.edu/class/cs234/index.html
 
 
 
-## OpenAI: Spinning Up in Deep RL
+- OpenAI: Spinning Up in Deep RL
 https://spinningup.openai.com/en/latest/index.html
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
 
-## CMU 10-703
+- CMU 10-703
+
 https://katefvision.github.io
 CMU, Deep Reinforcement Learning and Control
 https://zhuanlan.zhihu.com/c_156056199
