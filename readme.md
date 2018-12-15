@@ -39,6 +39,9 @@ http://web.stanford.edu/class/cs234/index.html
 
 
 
+## OpenAI: Spinning Up in Deep RL
+https://spinningup.openai.com/en/latest/index.html
+This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
 
 ## CMU 10-703
