@@ -43,6 +43,7 @@ http://web.stanford.edu/class/cs234/index.html
 
 
 - OpenAI: Spinning Up in Deep RL
+
 https://spinningup.openai.com/en/latest/index.html
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
@@ -55,7 +56,7 @@ https://zhuanlan.zhihu.com/c_156056199
 note
 
 
-## 
+- 
 https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 Deep Reinforcement Learning Course is a free series of blog posts and videos about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
 
