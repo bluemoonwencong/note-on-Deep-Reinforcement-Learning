@@ -1,3 +1,4 @@
+# 这个 repository 是用来学习 Deep Reinforcement Learning 的。记录一些课程和博客的链接，记录课程作业。
 
 Deecamp冬令营介绍：https://zhuanlan.zhihu.com/p/50704228 (原来是由Momenta提供独家技术支持的)
 
@@ -9,12 +10,14 @@ https://www.zhihu.com/question/265741428/answer/299986865
 2018deecamp夏令营的RL项目是利用RL方法学习即时战略游戏，由地平线负责产业导师
 
 # courses
+
 -  RL Course by David Silver
 
 http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html
 
 https://www.bilibili.com/video/av32149008?from=search&seid=17423599052899767460
 中文字幕，youtube上没有字幕
+
 
 - CS294
 
@@ -40,33 +43,11 @@ https://zhuanlan.zhihu.com/codekitty
 note, cs231n, cs294, cs234
 
 
-
-
-- CS234
-
-http://web.stanford.edu/class/cs234/index.html
-
-
-
-
 - OpenAI: Spinning Up in Deep RL
 
 https://spinningup.openai.com/en/latest/index.html
 
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
-
-
-
-
-- CMU 10-703
-
-https://katefvision.github.io
-CMU, Deep Reinforcement Learning and Control
-
-https://zhuanlan.zhihu.com/c_156056199
-note，CMU 10-703
-
-
 
 
 - A Free course in Deep Reinforcement Learning from beginner to expert
@@ -76,22 +57,40 @@ https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 Deep Reinforcement Learning Course is a free series of blog posts and videos about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
 
 
+- CMU 10-703
+
+https://katefvision.github.io
+CMU, Deep Reinforcement Learning and Control
+(no time to learn)
+
+https://zhuanlan.zhihu.com/c_156056199
+note，CMU 10-703
+
+
+- CS234
+
+http://web.stanford.edu/class/cs234/index.html
+(no time to learn)
+
+
+
 
 # blog list
 https://zhuanlan.zhihu.com/p/29489067
 经典文献复现
 
 https://zhuanlan.zhihu.com/p/21369441
-深度增强学习暑期学校 PPT 详解1
+深度增强学习暑期学校 PPT 详解
 
-https://zhuanlan.zhihu.com/p/20885568
-Deep Reinforcement Learning 深度增强学习资源列表 (持续更新）
-这个专栏(智能单元)很好
-
+https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
+博客列表，较详细地介绍了RL，最后的推荐课程和我收集地一样。
 
 https://zhuanlan.zhihu.com/karroyKelvin
 知乎专栏，深度强化学习
 
+https://zhuanlan.zhihu.com/p/20885568
+Deep Reinforcement Learning 深度增强学习资源列表 (持续更新）
+这个专栏(智能单元)很好
 
 
 
@@ -104,7 +103,6 @@ https://github.com/liuaiting/DeeCamp2018-slides
 
 
 https://github.com/geeeeeeeeek/git-recipes
-git中文教程，得看，还得减肥(穿训练营统一服装)
-
+git中文教程
 
 
