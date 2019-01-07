@@ -57,20 +57,19 @@ https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
 Deep Reinforcement Learning Course is a free series of blog posts and videos about Deep Reinforcement Learning, where we'll learn the main algorithms, and how to implement them with Tensorflow.
 
 
-- CMU 10-703
+- CMU 10-703 (no time to learn)
 
 https://katefvision.github.io
 CMU, Deep Reinforcement Learning and Control
-(no time to learn)
+
 
 https://zhuanlan.zhihu.com/c_156056199
 note，CMU 10-703
 
 
-- CS234
+- CS234 (no time to learn)
 
 http://web.stanford.edu/class/cs234/index.html
-(no time to learn)
 
 
 
