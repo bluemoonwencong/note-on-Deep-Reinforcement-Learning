@@ -75,21 +75,22 @@ http://web.stanford.edu/class/cs234/index.html
 
 
 # blog list
+
+https://zhuanlan.zhihu.com/p/20885568
+Deep Reinforcement Learning 深度增强学习资源列表 (持续更新）
+
 https://zhuanlan.zhihu.com/p/29489067
-经典文献复现
+经典文献复现, CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING
 
 https://zhuanlan.zhihu.com/p/21369441
 深度增强学习暑期学校 PPT 详解
 
 https://medium.com/@jonathan_hui/rl-deep-reinforcement-learning-series-833319a95530
-博客列表，较详细地介绍了RL，最后的推荐课程和我收集地一样。
+博客列表，较详细地介绍了RL
 
 https://zhuanlan.zhihu.com/karroyKelvin
 知乎专栏，深度强化学习
 
-https://zhuanlan.zhihu.com/p/20885568
-Deep Reinforcement Learning 深度增强学习资源列表 (持续更新）
-这个专栏(智能单元)很好
 
 
 
